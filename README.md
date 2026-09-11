@@ -5,7 +5,8 @@
 
 🛍️ Mall Customer Segmentation using K-Means Clustering
 
-📌 Project Overview
+📌 Project Overview:
+
 This project performs customer segmentation on the Mall Customers dataset using K-Means Clustering, an unsupervised machine learning algorithm.
 
 The goal is to divide mall customers into meaningful groups based mainly on their Annual Income and Spending Score, so that the business can create more targeted marketing strategies.
