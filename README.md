@@ -404,5 +404,7 @@ Deploying the model as an API
 Adding recommendation and personalization features
 
 👨‍💻 Author
+
 Naresh Yadav
+
 GitHub: https://github.com/nareshyadav1234
